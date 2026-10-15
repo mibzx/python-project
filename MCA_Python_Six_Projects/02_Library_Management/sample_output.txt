@@ -1,0 +1,14 @@
+1 Add book  2 List books  3 Search  4 Issue  5 Return  6 Backup  7 Restore  0 Exit
+Choose: 1
+Book ID: B01
+Title: Python Basics
+Author: A. Kumar
+Book added.
+
+Choose: 4
+Book ID to issue: B01
+Borrower's name: Asha
+Issued. Due date: 2026-10-29
+
+Choose: 2
+B01 | Python Basics | A. Kumar | Issued

@@ -1,0 +1,19 @@
+{
+    "books": [
+        {
+            "book_id": "23",
+            "title": "fds",
+            "author": "sdf"
+        }
+    ],
+    "issues": [
+        {
+            "book_id": "23",
+            "borrower": "bfds",
+            "issue_date": "2026-10-16",
+            "due_date": "2026-10-30",
+            "returned": false,
+            "return_date": null
+        }
+    ]
+}
